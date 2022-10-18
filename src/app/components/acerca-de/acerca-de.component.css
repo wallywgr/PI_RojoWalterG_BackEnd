@@ -1,0 +1,38 @@
+.row{
+    padding: 20px;
+}
+
+div{
+    background-color: #a4b39e;
+    text-align: center;
+}
+
+/*Estilo de la foto de perfil*/
+@media (min-width: 576px) {
+    #fotodeperfil{
+        position: absolute;
+        width: 15%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px rgb(92, 105, 99);
+        left: 3%;
+        top: 570px;
+    }
+}
+
+@media (max-width: 575px) {
+    #fotodeperfil{
+        position: absolute;
+        width: 38%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px rgb(92, 105, 99);
+        left: 30%;
+        top: 480px;
+    }
+}
+
+/*Estilo de nombre*/
+#nombre{
+    font-weight: bold;
+    margin-top: 40px;
+    margin-left: 10px;
+}
