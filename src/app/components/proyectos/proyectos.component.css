@@ -3,6 +3,14 @@
     background-color: #686b67;
 }
 
+h1{
+    color: antiquewhite;
+}
+
+.semi-bold{
+    color: rgb(189, 199, 218);
+}
+
 .container{
     width: auto;
 }

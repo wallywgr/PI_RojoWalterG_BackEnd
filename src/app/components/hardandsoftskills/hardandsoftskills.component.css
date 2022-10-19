@@ -2,3 +2,20 @@
     background: #686b67;
     padding: 20px;
 }
+
+h1{
+    color: antiquewhite;
+}
+
+/*Estilos vista Smartphone*/
+@media(max-width: 575px){
+    .circulo1, .circulo2, .circulo3, .circulo4, .circulo5, .circulo6{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+        padding: 5px;
+    }
+    
+    
+}
