@@ -3,7 +3,7 @@
 }
 
 div{
-    background-color: #a4b39e;
+    background-color: #686b67;
     text-align: center;
 }
 
@@ -26,7 +26,7 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px rgb(92, 105, 99);
         left: 30%;
-        top: 480px;
+        top: 580px;
     }
 }
 
